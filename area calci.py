@@ -1,3 +1,4 @@
+#https://github.com/shaikhhashim-spec/python-lab
 print("1 = square")
 print("2 = rectangle")
 print("3 = triangle")
@@ -27,3 +28,4 @@ else:
     r = int(input("enter radius of circle: "))
     area = 3.142*r*r
     print("area of circle is: ",area)
+
