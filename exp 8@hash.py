@@ -1,4 +1,4 @@
-#https://github.com/saadkhan17406-sketch/Python
+#https://github.com/shaikhhashim-spec/Python
 print("UIN : 251A053", "DATE : 09-02-2026")
 s = int(input("Enter size of square: "))
 
@@ -9,3 +9,4 @@ rows = int(input("Enter number of rows: "))
 
 for i in range(1, rows+1):
     print("* "*i)
+
