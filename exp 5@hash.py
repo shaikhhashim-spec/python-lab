@@ -1,4 +1,4 @@
-print("UNI : 251A053, DATE : 03-02-2026")
+print("UIN : 251A011, DATE : 03-02-2026")
 l = []
 name = []
 age = []
